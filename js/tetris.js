@@ -23,7 +23,7 @@ var shapes = [
 ];
 var colors = [
 
-    'green', 'green', 'green', 'green', 'green', 'green', 'green'
+    'purple', 'purple', 'purple', 'purple', 'purple', 'purple', 'purple'
 
 ];
 
